@@ -21,7 +21,7 @@ defaults for its portfolio and risk assessment.
 
 
 ## Conclusions
-After carefully analyzing Various parameters that depict buyer behavior and Loan Conditions, following are few of the major driving factors for default loans.
+After carefully analyzing Various parameters that represent buyer behavior and Loan Conditions, following are few of the major driving factors for default loans.
 - Higher Interest Rate (20% to 22%) leads to significantly higher rate of defaults.
 - Loans taken for a purpose of Small Business have very high default rates
 - Loans taken for a term for 60 month Period have double the default rate than 36 month default rate
@@ -44,7 +44,6 @@ After carefully analyzing Various parameters that depict buyer behavior and Loan
 
 ## Acknowledgements
 Give credit here.
-- This project was inspired by...
 - I would like thank IIIB and UpGrad teams for giving us the opportunity to work on this Case Study.
 - I also want to express my gratitude to my teammate Gaurav Kalra() for equally active participation and contribution.
 
