@@ -43,7 +43,7 @@ After carefully analyzing Various parameters that represent buyer behavior and L
 
 
 ## Acknowledgements
-Give credit here.
+
 - I would like thank IIIB and UpGrad teams for giving us the opportunity to work on this Case Study.
 - I also want to express my gratitude to my teammate Gaurav Kalra() for equally active participation and contribution.
 
