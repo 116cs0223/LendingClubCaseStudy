@@ -31,6 +31,7 @@ After carefully analyzing Various parameters that represent buyer behavior and L
 
 
 ## Technologies Used
+- language - python 3.7.12
 - library -  pandas 1.3.5
 - library -  numpy 1.21.5
 - library -  matplotlib 3.2.2
