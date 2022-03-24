@@ -1,6 +1,6 @@
 # Lending Club Case Study
 > The objective of this project is to analyze information about past loan applicants of a Consumer 
-Finance Company, using EDA to identify patterns which indicate if a person is 
+Finance Company, using EDA(Exploratory Data Analysis) to identify patterns which indicate if a person is 
 likely to default. 
 The company can further utilise this knowledge of driving factors behind loan 
 defaults for its portfolio and risk assessment.
